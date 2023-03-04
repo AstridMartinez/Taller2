@@ -1,0 +1,16 @@
+header{
+    height: 100%;
+    display: flex;
+    background-color: red;
+    text-align: center;
+    justify-content: space-between;
+    flex-direction: column;
+   }
+   .color_texto{
+       color: #f6f6f6;
+   }
+   body {
+       margin-top: 0;
+       margin-left: 0;
+       margin-right: 0;
+   }
